@@ -14,7 +14,7 @@
   import Player from 'components/player/player'
   import Tab from 'components/tab/tab'
 
-  export default {
+  export default { // 呵呵
     components: {
       MHeader,
       Tab,
